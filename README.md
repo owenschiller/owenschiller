@@ -13,4 +13,4 @@ I built a SwiftUI Premier League Tracker that allows users to favorite teams, vi
 ## Logo
 
 ![My Logo](schiller_owen_logo_color)!--
-**owenschiller/owenschiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
