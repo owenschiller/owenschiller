@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# Hi, I'm Owen.
+Hi, I'm Owen.
 
 I built a SwiftUI Premier League Tracker that allows users to favorite teams, view recent form, and compare rankings.
 
