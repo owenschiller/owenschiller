@@ -12,5 +12,5 @@ I built a SwiftUI Premier League Tracker that allows users to favorite teams, vi
 
 ## Logo
 
-![My Logo](schiller_owen_logo_color)!--
+![My Logo](schiller_owen_logo_color)
 
